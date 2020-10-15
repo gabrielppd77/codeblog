@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CodeblogApplication<codeblog>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.web.codeblog.CodeblogApplication",
+            "projectName": "codeblog",
+            "args": ""
+        }
+    ]
+}
